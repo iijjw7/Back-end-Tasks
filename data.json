@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "info": "Software Engineer",
+        "age": 30,
+        "email": "john.doe@example.com",
+        "hobbies": ["coding", "hiking", "reading"]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "info": "Graphic Designer",
+        "age": 25,
+        "email": "jane.smith@example.com",
+        "hobbies": ["drawing", "traveling", "reading"]
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "info": "Product Manager",
+        "age": 35,
+        "email": "bob.johnson@example.com",
+        "hobbies": ["gaming", "cooking", "reading"]
+    },
+    {
+        "id": 4,
+        "name": "Alice Williams",
+        "info": "Data Scientist",
+        "age": 28,
+        "email": "alice.williams@example.com",
+        "hobbies": ["statistics", "machine learning", "hiking"]
+    },
+    {
+        "id": 5,
+        "name": "Charlie Brown",
+        "info": "DevOps Engineer",
+        "age": 32,
+        "email": "charlie.brown@example.com",
+        "hobbies": ["automation", "cloud computing", "hiking"]
+    },
+    {
+        "id": 6,
+        "name": "Emily Davis",
+        "info": "Marketing Specialist",
+        "age": 27,
+        "email": "emily.davis@example.com",
+        "hobbies": ["social media", "content creation", "fitness"]
+    },
+    {
+        "id": 7,
+        "name": "Frank Harris",
+        "info": "Business Analyst",
+        "age": 40,
+        "email": "frank.harris@example.com",
+        "hobbies": ["finance", "economics", "golf"]
+    },
+    {
+        "id": 8,
+        "name": "Grace Lee",
+        "info": "HR Manager",
+        "age": 38,
+        "email": "grace.lee@example.com",
+        "hobbies": ["recruiting", "employee engagement", "yoga"]
+    },
+    {
+        "id": 9,
+        "name": "Henry Martin",
+        "info": "Frontend Developer",
+        "age": 26,
+        "email": "henry.martin@example.com",
+        "hobbies": ["JavaScript", "React", "surfing"]
+    },
+    {
+        "id": 10,
+        "name": "Irene Clark",
+        "info": "Backend Developer",
+        "age": 29,
+        "email": "irene.clark@example.com",
+        "hobbies": ["Node.js", "databases", "puzzles"]
+    }
+]
